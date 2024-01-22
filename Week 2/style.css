@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    width: 100vw;
+}
 
 .navbar a{
     color: aliceblue;
@@ -30,5 +33,11 @@
 .link-button{
     background-color: #cc0000;
     border-radius: 20px;
-    padding-inline: 5px;
+    padding-inline: 10px;
+    margin-inline: 10px;
 }
+
+.navbar li{
+    padding-inline: 10px;
+}
+
