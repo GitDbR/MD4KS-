@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar a{
+    color: aliceblue;
+}
+
+.navbar a:hover{
+    background-color: #cc0000;
+    color: #fff;
+    
+}
+
+.links{
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-toggler-icon{
+    background-color: #fff;
+}
+
+.redText{
+    color: #cc0000;
+}
+
+.link-button{
+    background-color: #cc0000;
+    border-radius: 20px;
+    padding-inline: 5px;
+}
